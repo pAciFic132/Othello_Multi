@@ -1,13 +1,10 @@
-#OpenSource Team project
+Use C-Socket Programming
 
-#Team name : 케찹소스
+Make Othllo multi-player version.
 
-
-Use Socket Programming
-
-We make Othllo multi-player version.
-
-Our game is in lauch folder.
+Game is in lauch folder.
 
 Please read readme.txt launch folder
+
+:D Enjoy the Game
 

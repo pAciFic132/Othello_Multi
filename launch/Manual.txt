@@ -1,0 +1,29 @@
+******************** MANUAL *******************
+
+<How to play>
+
+ “Move”    “Push”
+   ↑
+ ← ↓ →   [Space Bar] 
+
+<What is Othello?>
+
+Othello is a kind of board game. Also called Reversi. 
+Two of them are arranged on the Othello plate, which is 8 horizontal and 8 columns, with alternating black and white stones.
+
+1. You start with four stones placed in a square in the center of the plate.
+
+2. The stone must surround the opponent's stone on both sides and place it in a reversible place. ( *We can show this point with stars* )
+
+3. If there is no place to turn the stone, the turn is automatically passed to the opponent.
+
+4. The game ends when both sides can no longer place stones under the following conditions.
+   •If all 64 stones are full of plates (most common)
+   •If either side reverses the stone
+   •If both sides have to pass each other's turn
+
+At the end of the game, the player with a lot of stones becomes the winner. If the number of stones is the same, it is a draw.
+
+[https://ko.wikipedia.org/wiki/%EC%98%A4%EB%8D%B8%EB%A1%9C]
+
+************************************************
